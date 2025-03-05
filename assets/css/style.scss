@@ -11,13 +11,13 @@
   font-style: italic;
 }
 
-#page-header {
+.page-header {
   background-image: url(/docs/assets/hyack_fire.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
 }
 
-#page-header .darken {
+.page-header .darken {
   background-color: rgba(0, 0, 0, .5);
 }
