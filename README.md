@@ -20,3 +20,38 @@ You can arrive any time after 5:00 PM on Friday. Please check in at our headquar
 Parking directly around the camp site is **extremely limited**. The site borders on the parade route, so there will be numerous parking restrictions. Pay attention to all posted signage. The camp is not responsible if your vehicle is towed – and yes, it has happened before. For the groups closer to New Westminster, please encourage your Scouts to carpool. You will likely have to drop off your equipment and find parking in the nearby neighbourhood streets or in some of the parking lots throughout Queens Park (again, **check all posted signage**). We suggest that you leave a note on your dash with your name and phone number in case your vehicle needs to be moved.
 
 ![Parking Map](/docs/assets/parking_map.png)
+
+## Water and Waste Management
+In 2023, the City removed our usual water source. We have access to potable water, but it’s a bit of a distance. **We are looking for groups to volunteer to bring garden hoses**. In order to run the campfire, we must run water to the fire location in case of emergency. If you can bring a labelled length of hose, it would be greatly appreciated.
+
+Grey water disposal is located along the fence line on Vancouver street. There will be a marked path to the drain. Please filter out any large chunks of food and debris. **NO DISHWASHING AT THE TAP OR GREY WATER PIT**.
+
+Outhouses, a handwash station, and waste disposal bins are located on the path near camp HQ. **Keeping the outhouses clean is a shared responsibility**; please be respectful of your fellow campers and the camp staff. If an outhouse needs attention, please let us know at camp HQ.
+
+## Schedule
+The final, detailed schedule will be posted at camp HQ and provided to you when you check in.
+- Friday night
+  - Arrival and setup
+  - Field games (human foosball, bubble soccer, and more)
+- Saturday
+  - Opening
+  - Depart camp for parade
+  - Hyack Parade (see below)
+  - Lunch (provided by the camp)
+  - Drop-in field games
+  - Scavenger hunt and other activities
+  - Dinner & cooking competition judging
+  - Campfire
+  - Mug-up (provided by the camp)
+- Sunday
+  - Pack up
+  - Scouts' Own
+  - Closing
+
+## Hyack Parade
+One of the main features of Hyack Camp is the Hyack International Parade. The parade attracts entrants from Canada and the US and passes right by our campsite. We participate in the parade as a marching unit (well, really a "loose gaggle of walking" unit). Bring your group flags and banners. The parade is rain or shine, and as past participants know, it can do either with vigour. Be Prepared!
+
+As well as marching in the parade, we provide a number of Scouts to the parade to assist with holding signs either in the parade or along the route. We will ask for volunteers at opening on Saturday. Get those uniforms spiffy!
+
+## Saturday Lunch
+Lunch after the parade is provided by the camp. We will be serving cold-cut sandwiches. If you have participants with dietary restrictions, we suggest having alternatives for them. We may be able to make some accommodations, but you know your youth and fellow Scouters best.
