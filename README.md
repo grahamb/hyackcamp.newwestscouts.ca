@@ -76,5 +76,3 @@ Mug up is immediately following the campfire and is provided by the camp.
 
 ## Contact Us
 Have questions not answered here? Email us at hyack@newwestscouts.ca
-
-_We gratefully acknowledge the financial support provided by the City of New Westminster and their continued support of this annual event._
