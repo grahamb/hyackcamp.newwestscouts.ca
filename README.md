@@ -1,8 +1,3 @@
-<div class="acknowledgement"><p>Hyack Camp takes place on the unceded and unsurrendered land of the Halkomelem-speaking peoples.</p></div>  
-
-<div class="nav"></div>
-
-<div class="content">
 Welcome to Hyack Camp 2025. Whether this is your first time at Hyack, or you’re a veteran, we’re thrilled you’ll be joining us for the 38th Hyack Camp.
 
 The theme this year is **Conspiracy Camp** (yes, the Venturers picked it). Bust out your tinfoil hats, and get ready to convince us that Elvis is still alive and well.
@@ -83,4 +78,3 @@ Mug up is immediately following the campfire and is provided by the camp.
 Have questions not answered here? Email us at hyack@newwestscouts.ca
 
 _We gratefully acknowledge the financial support provided by the City of New Westminster and their continued support of this annual event._
-</div>
