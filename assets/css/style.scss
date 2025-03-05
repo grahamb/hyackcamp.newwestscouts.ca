@@ -10,3 +10,14 @@
   font-size: 1.1rem;
   font-style: italic;
 }
+
+#page-header {
+  background-image: url(/docs/assets/hyack_fire.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+#page-header .darken {
+  background-color: rgba(0, 0, 0, .5);
+}
