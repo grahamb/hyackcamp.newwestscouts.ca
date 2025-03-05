@@ -1,9 +1,17 @@
+<div class="acknowledgement">_Hyack Camp takes place on the unceded and unsurrendered land of the Halkomelem-speaking peoples._</div>  
+<div class="nav"></div>
+
+<div class="content">
 Welcome to Hyack Camp 2025. Whether this is your first time at Hyack, or you’re a veteran, we’re thrilled you’ll be joining us for the 38th Hyack Camp.
 
-## Registration
-Registration for Hyack Camp 2025 will go live at **noon on Saturday, March 22, 2025**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist.
+The theme this year is **Conspiracy Camp** (yes, the Venturers picked it). Bust out your tinfoil hats, and get ready to convince us that Elvis is still alive and well.
 
-Unfortunately, last year saw a number of groups either not show up at all, or dramatically reduce their numbers without informing us. This resulted in groups who were on the waitlist not being able to get in, and affected our costs for items purchased in advance. In order to make it possible for as many groups to attend Hyack as possible, we are implementing the following registration procedure this year:
+## Registration
+Registration for Hyack Camp 2025 will go live at **noon on Saturday, March 22, 2025**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Fees are being finalized but expected to be in the $20-30 per person range (including Scouters).
+
+Unfortunately, last year saw a number of groups either not show up at all, or dramatically reduce their numbers without informing us. This resulted in groups who were on the waitlist not being able to get in, affected our costs for items purchased in advance, and caused a fair amount of food waste from extra perishable lunch supplies. 
+
+**In order to make it possible for as many groups to attend Hyack as possible, we are implementing the following registration procedure this year**:
 
 - All groups must pre-register. There is no on-site registration.
 - Full payment must be received in order to confirm your registration. We're happy to offer online payments via credit card this year.
@@ -55,3 +63,23 @@ As well as marching in the parade, we provide a number of Scouts to the parade t
 
 ## Saturday Lunch
 Lunch after the parade is provided by the camp. We will be serving cold-cut sandwiches. If you have participants with dietary restrictions, we suggest having alternatives for them. We may be able to make some accommodations, but you know your youth and fellow Scouters best.
+
+## Camp Activities
+We'll have all our usual Hyack Camp favourites, including bubble soccer, boffing, and human fooseball. There will be an on-site scavenger hunt, and we're working on some new exiting activities as well.
+
+## Cooking Competition
+Put your camp culinary skills to the test, and you could claim your place on the Coveted Hyack Cooking Trophy! As is tradition, your group will be provided with a secret ingredient which you will incorporate into your dinner on Saturday night. Judging criteria includes creativity, taste, appearance, and food safety. You will be provided with a labelled paper plate upon which to submit your entry.
+
+## Campfire
+Perhaps the ultimate highlight of Hyack is our Saturday night campfire on the baseball diamond. The City of New Westminster issues exactly one fire permit per year, and it goes to us! In order to receive the secret ingredient for the cooking competition, you must provide us with your song, skit, and cheer.. Bring your campfire blanket and chair, unless you want to sit on the ground. 
+Mug up is immediately following the campfire and is provided by the camp.
+
+## Other Information
+- Each group is responsible for ensuring they are in compliance with all Scouts Canada policies and procedures, including AAFs and ensuring all participants are Active in MyScouts. You are responsible for your own first aid requirements.
+- No open fires are permitted. **This includes propane fires in your site.**
+
+## Contact Us
+Have questions not answered here? Email us at hyack@newwestscouts.ca
+
+_We gratefully acknowledge the financial support provided by the City of New Westminster and their continued support of this annual event._
+</div>
