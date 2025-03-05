@@ -22,9 +22,14 @@
   background-color: rgba(0, 0, 0, .5);
 }
 
+.regBtn {
+  text-align: center;
+}
+
 #content .btn {
   color: #606c71 !important;
   border-color: rgba(0,0,0,0.5) !important;
+  font-weight: bold !important;
 }
 
 #content .btn:hover {
