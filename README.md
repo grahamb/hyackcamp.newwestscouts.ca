@@ -1,4 +1,5 @@
-<div class="acknowledgement">_Hyack Camp takes place on the unceded and unsurrendered land of the Halkomelem-speaking peoples._</div>  
+<div class="acknowledgement"><p>Hyack Camp takes place on the unceded and unsurrendered land of the Halkomelem-speaking peoples.</p></div>  
+
 <div class="nav"></div>
 
 <div class="content">
