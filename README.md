@@ -3,7 +3,7 @@ Welcome to Hyack Camp 2025. Whether this is your first time at Hyack, or you’r
 The theme this year is **Conspiracy Camp** (yes, the Venturers picked it). Bust out your tinfoil hats, and get ready to convince us that Elvis is still alive and well.
 
 ## Registration
-Registration for Hyack Camp 2025 will go live at **noon on Saturday, March 22, 2025**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Fees are being finalized but expected to be in the $20-30 per person range (including Scouters).
+Registration for Hyack Camp 2025 will go live at **noon on Saturday, March 22, 2025**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Camp fees are $25 per person (including Scouters) and includes lunch on Saturday, mug-up after campfire, and the camp badge.
 
 Unfortunately, last year saw a number of groups either not show up at all, or dramatically reduce their numbers without informing us. This resulted in groups who were on the waitlist not being able to get in, affected our costs for items purchased in advance, and caused a fair amount of food waste from extra perishable lunch supplies. 
 
