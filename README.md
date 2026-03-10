@@ -1,11 +1,9 @@
-Welcome to Hyack Camp 2025. Whether this is your first time at Hyack, or you’re a veteran, we’re thrilled you’ll be joining us for the 38th Hyack Camp.
+Welcome to Hyack Camp 2026. Whether this is your first time at Hyack, or you’re a veteran, we’re thrilled you’ll be joining us for the 38th Hyack Camp.
 
-The theme this year is **Conspiracy Camp** (yes, the Venturers picked it). Bust out your tinfoil hats, and get ready to convince us that Elvis is still alive and well.
+The theme this year is **Hyack and the Holy Grail**. Get your court of knights together, find yourself a shrubbery, and watch out for the Black Knight!
 
 ## Registration
-Registration for Hyack Camp 2025 will go live at **noon on Saturday, March 22, 2025**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Camp fees are $25 per person (including Scouters) and includes lunch on Saturday, mug-up after campfire, and the camp badge.
-
-Unfortunately, last year saw a number of groups either not show up at all, or dramatically reduce their numbers without informing us. This resulted in groups who were on the waitlist not being able to get in, affected our costs for items purchased in advance, and caused a fair amount of food waste from extra perishable lunch supplies. 
+Registration for Hyack Camp 2026 will go live at **noon on Saturday, March 28, 2026**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Camp fees are $25 per person (including Scouters) and includes lunch on Saturday, mug-up after campfire, and the camp badge.
 
 **In order to make it possible for as many groups to attend Hyack as possible, we are implementing the following registration procedure this year**:
 
@@ -28,7 +26,7 @@ Parking directly around the camp site is **extremely limited**. The site borders
 ## Water and Waste Management
 In 2023, the City removed our usual water source. We have access to potable water, but it’s a bit of a distance. **We are looking for groups to volunteer to bring garden hoses**. In order to run the campfire, we must run water to the fire location in case of emergency. If you can bring a labelled length of hose, it would be greatly appreciated.
 
-Grey water disposal is located along the fence line on Vancouver street. There will be a marked path to the drain. Please filter out any large chunks of food and debris. **NO DISHWASHING AT THE TAP OR GREY WATER PIT**.
+Grey water disposal will be marked. Please filter out any large chunks of food and debris. **NO DISHWASHING AT THE TAP OR GREY WATER PIT**.
 
 Outhouses, a handwash station, and waste disposal bins are located on the path near camp HQ. **Keeping the outhouses clean is a shared responsibility**; please be respectful of your fellow campers and the camp staff. If an outhouse needs attention, please let us know at camp HQ.
 
