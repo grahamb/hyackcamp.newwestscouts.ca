@@ -1,4 +1,4 @@
-Welcome to Hyack Camp 2026. Whether this is your first time at Hyack, or you’re a veteran, we’re thrilled you’ll be joining us for the 38th Hyack Camp.
+Welcome to Hyack Camp 2026. Whether this is your first time at Hyack, or you’re a veteran, we’re thrilled you’ll be joining us for the 39th Hyack Camp.
 
 The theme this year is **Hyack and the Holy Grail**. Get your court of knights together, find yourself a shrubbery, and watch out for the Black Knight!
 
