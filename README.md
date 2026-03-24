@@ -3,7 +3,7 @@ Welcome to Hyack Camp 2026. Whether this is your first time at Hyack, or you’r
 The theme this year is **Hyack and the Holy Grail**. Get your court of knights together, find yourself a shrubbery, and watch out for the Black Knight!
 
 ## Registration
-Registration for Hyack Camp 2026 will go live at **noon on Saturday, March 28, 2026**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Camp fees are $25 per person (including Scouters) and includes lunch on Saturday, mug-up after campfire, and the camp badge.
+Registration for Hyack Camp 2026 will go live at **noon on Monday, March 30, 2026**. Due to the physical constraints of the camp site, registration for Hyack is capped at 200 participants (including Scouters). We are expecting a full camp this year with a possible waitlist. Camp fees are $25 per person (including Scouters) and includes lunch on Saturday, mug-up after campfire, and the camp badge.
 
 **In order to make it possible for as many groups to attend Hyack as possible, we are implementing the following registration procedure this year**:
 
